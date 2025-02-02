@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "hotel-booking-chatquack-b-ubul",
+  "private_key_id": "c1610cad34beaeb49c2ae924995510e4a4646d32",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCpIbNxN71LDbBh\nG9WFhfSN0e/xjD4KOI507qddSMv2Vp9qIyGjBTL/TYfwwZJu0+fvpGZ8vcOdN2dt\nA9cojpgP0Ka8wTL7BZJHTS8FhopRHe5fzTaqESCs2diXh6znREh5tLgBOyXhm0hQ\nNIEAMU8ERtd6oEIR2GQOFY+8PNQTw+6jmpqV18NyQ+qdtIiQnguo57HoKKkIygti\nMl07obsx+VzaivHNNJso1wk0esXNg4UcYs7eGr2+Mrjkwfvjz7kN2kujezTiQ54J\nYsMkNznzDiTVwCmubVNgydzHIyWZbOOWVTYgxMgnG/lFldhhY9gXur/iWLj99/Qp\n9r6drhuzAgMBAAECggEAU/SaspTMrjj5WPsMHt/D6bJQvUK0eTZh4MGm6rN8K6gM\nMg+GXvnxurGtzWEJY2JlO5wME9fPBne+K2tAnq1J5m/YlNICkIDPf/1cXg3PEz0c\nWwnvHLSr16G71lxPA+3tXBzNSi8mOrtuRgIKFyJi6uiPhhuPMHSOFj+1veckDzrg\nL0ifl7zZs+KjoXuTC0mIrngn4deMpNKUSKb8MQXYiTIeekWvcvghV9gP2u+9b4KW\nXR9mQ+71RiZn2QwPh/6VOChosroBlvCKRZmfdzkIWclywE88faiA9uAASZuz2bag\nb95jcnt/D03vUrY/ZM3so72kd09gQHbJ0+bDJVMkYQKBgQDh5atiWfDs0FxUvmmu\nPQncihwTh5X6GYEjRVVJLkQ2T+j352cNelXSXt8CusLErqpMontAzBRQqNaQe5Ef\nfO4DiK6cfwAbl4PvOk7uDOO9dOCH0DBr8BRbUEmAV6rkHYgzdXFTRTDrArDmShH7\nfFnA2vTn38FioTk7F/MxqiimNQKBgQC/q4OkIh5qOIynLvdXTEWONhzvmlZSrG80\ng0NW6J2wE55zhTjnn6Ut9Iu3YeTjIQ08oiY62eyK8jP6VVRs0Qkz6Lf4FLCTQbrL\nX3ZAa4W5+eYgI8uCVwh+cYFHzjb2LjiGZvdwRpNA7s48juBrVY7pPKEDsTmieWV3\n7IU9+bxXRwKBgQDIP8Bdvz1DsLEormMgghtr1UJuTZM10cYYbi3cYZc2TkBHAmro\nF7pccp1e3hAqKmvs41w/ZKndls4d5mwPbb/QginHsQ13aCkcuKOfgu2f1Sv1OSiz\nhm+FQvblPtHOxh8m/sUm+/8RVaFbg+3M8b7epzrTEhdsR19kcyaysBS4wQKBgQCS\nwnxgv/Mz+CrSlGa1RGR52LtdR3rTgM8BkYSNVj3vpYYNBDQnPplWz8nvV5jPxO4C\nwFGvfE/fsEbWZmHnlEOMqKO84/K0Pn8N3AGKoAnb9hob/+yC16tcTgLkfWSeKZQE\nbXEHWjLEZFYsDmaOKQvtUQwk7J2p53QnWEZJxyBMXwKBgQCcDPBr5UZu6AVv2V/o\n1UvHNPDeGS06v9UZfBOwiySPPPksEttldVQ1NRy9AFXhOwqpkmou7XDdZ70YsZFn\nBg8G0YBXDY929sdnrdx+dITJvtnM67LgU/wsviIKLVynj2YRQhN9XtMBkdLLyk3u\n+AeUzUEnqfFR7/8k+SM7+wGlhQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatquack-account@hotel-booking-chatquack-b-ubul.iam.gserviceaccount.com",
+  "client_id": "102130822275863608005",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatquack-account%40hotel-booking-chatquack-b-ubul.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
